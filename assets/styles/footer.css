@@ -1,0 +1,39 @@
+footer {
+  background: url(../imgs/banner.jpg) center center;
+  background-size: cover;
+}
+
+  .lockup {
+    padding-bottom: 90px;;
+  }
+
+
+ @media screen and (max-width: 585px) {
+     .lockup {
+    padding-bottom: 180px;
+  }
+   
+
+ }
+
+  .logo {
+    float: left;
+    margin-right: 30px;
+  }
+
+  .content-wrap {
+  float: left;
+  }
+
+  #footer-a {
+    color: #0e154a;
+  }
+    #footer-a:hover {
+      color: #19042e;
+    }
+
+
+.copyright {
+  margin-left: 20px;
+  color: azure;
+}
